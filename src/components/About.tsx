@@ -12,7 +12,7 @@ const About = () => {
             <div className="relative">
               <div className="w-64 h-64 mx-auto rounded-full overflow-hidden border-4 border-blue-500/20">
                 <img
-                  src="src\assets\saran.jpg"
+                  src="src/assets/saran.jpg"
                   alt="Profile"
                   className="w-full h-full object-cover"
                 />
